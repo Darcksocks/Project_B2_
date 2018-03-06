@@ -1,0 +1,35 @@
+#include <hidef.h> /* for EnableInterrupts macro */
+#include "derivative.h" /* include peripheral declarations */
+
+
+
+
+
+void main(void) {
+
+  SRS_COP = 0 ;
+  TPM1SC_CPWMS = 0;
+  TPM1SC_PS0 = 0;
+  TPM1SC_PS1 = 0;
+  TPM1SC_PS2 = 1;
+  TPM1C1SC_MS1A = 0;
+  TPM1C1SC_MS1B = 0;
+  TPM1C1SC_ELS1A = 1;
+  TPM1C1SC_ELS1B = 0;
+  
+  
+
+  for(;;) {
+	  /*ASM
+	  {
+		  $60 = TPM1C1VH
+		  $70 = TPM1C1VL
+	  }*/
+	  int A = TPM1C1VL;
+	  int B = TPM1C1VH; 
+	  int ad = *A;
+	  
+    
+  } /* loop forever */
+  /* please make sure that you never leave main */
+}

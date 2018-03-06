@@ -1,0 +1,4 @@
+E:/Projet holonome/projet test moteur/Projet_Moteur_Holonome/Project_Headers\../Sources\main.c:11:error:C1009 Invalid redeclaration of a
+E:/Projet holonome/projet test moteur/Projet_Moteur_Holonome/Project_Headers\../Sources\main.c:31:error:C1815 b not declared (or typename)
+E:/Projet holonome/projet test moteur/Projet_Moteur_Holonome/Project_Headers\../Sources\main.c:32:error:C1815 c not declared (or typename)
+E:/Projet holonome/projet test moteur/Projet_Moteur_Holonome/Project_Headers\../Sources\main.c:33:error:C1815 d not declared (or typename)
