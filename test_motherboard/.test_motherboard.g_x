@@ -1,0 +1,31 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-05-22, 15:40:30" FileAge="1526996430470" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-05-22, 15:40:30" FileAge="1526996430466" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-05-22, 15:40:30" FileAge="1526996430513" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2018-05-22, 17:48:20" FileAge="1527004100311" FileType="128" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-05-22, 15:40:30" FileAge="1526996430505" FileType="45637" />
+      <File Name="Sources/Events.h" FileDate="2018-05-22, 15:40:30" FileAge="1526996430460" FileType="131328" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-05-22, 15:40:30" FileAge="1526996430507" FileType="45637" />
+      <File Name="Documentation/test_motherboard_SIGNALS.txt" FileDate="2018-05-22, 17:48:24" FileAge="1527004104764" FileType="3072" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-05-22, 15:40:30" FileAge="1526996430468" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-05-22, 15:40:30" FileAge="1526996430496" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-05-22, 15:40:30" FileAge="1526996430472" FileType="45637" CompNumb="4" />
+      <File Name="Sources/Events.c" FileDate="2018-05-22, 15:40:30" FileAge="1526996430443" FileType="131328" />
+      <File Name="Documentation/test_motherboard.txt" FileDate="2018-05-22, 15:40:30" FileAge="1526996430605" FileType="3072" />
+      <File Name="Documentation/test_motherboard_Settings.xml" FileDate="2018-05-22, 15:40:30" FileAge="1526996430538" FileType="3072" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-05-22, 15:40:30" FileAge="1526996430510" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>4</CodeGenReference>
+</CodeGenerationInfo>
