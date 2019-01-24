@@ -12,9 +12,6 @@ Rapport projet : this is the forlder where you can find every reports of the pro
 Ressources : this folder is used to keep records
 Sujet projet : this is the folder where you can find every subjects, every issues
 
-
-You can also find the license file (GNU GPL v3)
-
 You can also find the .gitignore file which permit to control what kind of file can be pushed.
 
 =========================================================================
