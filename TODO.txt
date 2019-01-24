@@ -1,0 +1,8 @@
+Done :
+
+- Board (except rez for leds and Cyril's conector)
+
+To Do :
+
+- Order the main
+- Create files .h/.c for each user
