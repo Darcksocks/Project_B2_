@@ -1,0 +1,31 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Sources/main.c" FileDate="2018-05-24, 10:37:54" FileAge="1527151074089" FileType="128" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-05-23, 11:15:40" FileAge="1527066940785" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-05-23, 11:20:21" FileAge="1527067221158" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-05-23, 11:15:40" FileAge="1527066940770" FileType="45637" CompNumb="4" />
+      <File Name="Sources/Events.c" FileDate="2018-05-23, 11:15:40" FileAge="1527066940770" FileType="131328" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-05-23, 11:15:40" FileAge="1527066940801" FileType="45637" />
+      <File Name="Documentation/Prog_Motherboard_Settings.xml" FileDate="2018-05-24, 10:37:55" FileAge="1527151075864" FileType="3072" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-05-23, 11:15:40" FileAge="1527066940801" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-05-23, 11:20:21" FileAge="1527067221158" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/Prog_Motherboard.txt" FileDate="2018-05-23, 11:15:40" FileAge="1527066940850" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-05-23, 11:15:40" FileAge="1527066940801" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-05-23, 11:15:40" FileAge="1527066940801" FileType="45637" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-05-23, 11:15:40" FileAge="1527066940770" FileType="8" CompNumb="4" />
+      <File Name="Documentation/Prog_Motherboard_SIGNALS.txt" FileDate="2018-05-24, 10:37:55" FileAge="1527151075842" FileType="3072" />
+      <File Name="Sources/Events.h" FileDate="2018-05-23, 11:15:40" FileAge="1527066940770" FileType="131328" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>3</CodeGenReference>
+</CodeGenerationInfo>
