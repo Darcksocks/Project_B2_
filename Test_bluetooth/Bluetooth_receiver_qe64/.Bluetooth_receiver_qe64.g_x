@@ -1,0 +1,31 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-05-25, 14:39:03" FileAge="1527251943260" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2018-05-25, 15:08:06" FileAge="1527253686728" FileType="128" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-05-25, 14:39:03" FileAge="1527251943246" FileType="8" CompNumb="4" />
+      <File Name="Sources/Events.h" FileDate="2018-05-25, 14:39:03" FileAge="1527251943243" FileType="131328" />
+      <File Name="Documentation/Bluetooth_receiver_qe64_SIGNALS.txt" FileDate="2018-05-25, 15:36:24" FileAge="1527255384860" FileType="3072" />
+      <File Name="Documentation/Bluetooth_receiver_qe64.txt" FileDate="2018-05-25, 14:39:03" FileAge="1527251943277" FileType="3072" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-05-25, 14:44:28" FileAge="1527252268846" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-05-25, 14:39:03" FileAge="1527251943262" FileType="45637" />
+      <File Name="Sources/Events.c" FileDate="2018-05-25, 14:39:03" FileAge="1527251943241" FileType="131328" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-05-25, 14:44:28" FileAge="1527252268848" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-05-25, 14:39:03" FileAge="1527251943244" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-05-25, 14:39:03" FileAge="1527251943257" FileType="45637" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-05-25, 14:39:03" FileAge="1527251943259" FileType="45637" />
+      <File Name="Documentation/Bluetooth_receiver_qe64_Settings.xml" FileDate="2018-05-25, 14:44:28" FileAge="1527252268882" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-05-25, 14:39:03" FileAge="1527251943254" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>4</CodeGenReference>
+</CodeGenerationInfo>
